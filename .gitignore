@@ -1,13 +1,5 @@
-# Node build artifacts
 node_modules/
-npm-debug.log
-
-# Local development
-*.env
-*.dev
+*npm-debug.log
 *.DS_Store
 dist/bundle.js
-
-# Docker
-Dockerfile
-docker-compose.yml
+coverage
